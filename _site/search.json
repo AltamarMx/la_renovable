@@ -1,0 +1,71 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "La Renovable",
+    "section": "",
+    "text": "Carta editorial Uno\n\n\n\n\n\n\nRenovable\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nUn mundo feliz\n\n\n\n\n\n\nRenovable\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "El lado más caliente del enfriamiento",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/enero-abril-2025/index.html",
+    "href": "posts/enero-abril-2025/index.html",
+    "title": "El lado más caliente del enfriamiento",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/sept-dic-2024/index.html",
+    "href": "posts/sept-dic-2024/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "numero-001.html",
+    "href": "numero-001.html",
+    "title": "Número 1",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCarta editorial\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Número 1"
+    ]
+  },
+  {
+    "objectID": "articles/carta_editorial_01/index.html",
+    "href": "articles/carta_editorial_01/index.html",
+    "title": "Carta editorial",
+    "section": "",
+    "text": "Bienvenides"
+  },
+  {
+    "objectID": "numero-002.html",
+    "href": "numero-002.html",
+    "title": "Número 2",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCarta editorial\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Número 2"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/articles/carta_editorial_01/index.html",
+      "/articles/un_mundo_feliz/index.html"
+    ]
+  },
+  {
+    "listing": "/numero-001.html",
+    "items": [
+      "/articles/carta_editorial_01/index.html"
+    ]
+  },
+  {
+    "listing": "/numero-002.html",
+    "items": [
+      "/articles/carta_editorial_01/index.html"
+    ]
+  }
+]

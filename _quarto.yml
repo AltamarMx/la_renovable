@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "La Renovable"
+  sidebar:
+    contents:
+      - about.qmd
+      - text: "Número 1"
+        href: numero-001.qmd
+      - text: "Número 2"
+        href: numero-002.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

@@ -1,0 +1,10 @@
+---
+title: "Número 2"
+listing:
+  contents: articles  # Asumiendo que todos tus artículos están en la carpeta 'articles'
+#   filter: "issue == 'Número 1'"
+#   sort: "date desc"
+  sort-ui: true         # Opcional, para mostrar controles de ordenamiento
+  filter-ui: true       # Opcional, para permitir filtrado adicional
+  page-size: 10
+---
