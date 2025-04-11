@@ -5,8 +5,8 @@ date: 2025-04-01
 issue: "Número 4"
 categories: [Renovable]
 image: image.png
+bibliography: biblio.bib
 ---
-
 
 
 Sistemas de enfriamiento que terminan pro-
@@ -33,13 +33,9 @@ el comercio y los servicios, presentes en su-
 permercados, oficinas, hospitales y bancos.
 
 En los centros de datos, entre el 60 y 70 %
-
 de la energía consumida se destina a la re-
 frigeración, imprescindible para el funcio-
-namiento de los equipos de cómputo[1]. En
-
-el transporte, los sistemas de enfriamiento
-
+namiento de los equipos de cómputo [@cio2020]. En el transporte, los sistemas de enfriamiento
 permiten trasladar alimentos y otros pro-
 ductos como vacunas, medicinas y combus-
 tibles. Los productos marítimos, por ejem-
@@ -70,7 +66,7 @@ de enfriamiento en operación, pero las ven-
 tas ofrecen una referencia.
 
 En 2018, se vendieron 336 millones de nuevos
-equipos de refrigeración y A/C en el mundo[2]
+equipos de refrigeración y A/C en el mundo@eiu2019
 .
 Su amplio uso convierte a este mercado en
 uno de los más valiosos. Lo preocupante es
@@ -81,7 +77,7 @@ jando un crecimiento acelerado. En el sector
 
 industrial, se estima un aumento del 60 %
 
-entre 2022 y 2030[3]. Esto resalta la necesi-
+entre 2022 y 2030@precedence2022. Esto resalta la necesi-
 dad de soluciones sustentables para cubrir
 
 la demanda futura.
@@ -102,28 +98,15 @@ tenimiento. Estas sustancias pueden reducir
 la capa de ozono, aumentando el riesgo de
 
 cáncer de piel, cataratas y daños en organis-
-mos marinos y plásticos[4]
-
-.
+mos marinos y plásticos@dincer2010 .
 
 1 Los refrigerantes sonfluidos especiales,indispensablespara
 
 lograr el efecto de enfriamiento en los enfriadores convencio-
 nales. Usualmente están contenidos en los sistemas de enfria-
 miento, por lo que no tienen interacción directa con sustancias
-
 o materiales ajenos al propio enfriador.
 
-El lado más caliente
-
-del enfriamiento
-
-J. Camilo Jímenez García
-
-9
-
-La Renovable | enero - abril 2025 10
-Ventana a las energías renovables
 
 Además, al acumularse en la atmósfera, al-
 gunos refrigerantes contribuyen al calenta-
@@ -135,14 +118,14 @@ El efecto indirecto está ligado al consumo
 
 eléctrico de estos sistemas, ya que la ma-
 yoría funcionan con electricidad genera-
-da a partir de combustibles fósiles[2] cuyo
+da a partir de combustibles fósiles@eiu2019 cuyo
 
 aprovechamiento emite bióxido de carbo-
 no (CO2) al ambiente, el cual contribuye al
 
 efecto invernadero. En 2023, el 60 % de la
 electricidad mundial provino de petróleo,
-gas y carbón[5], cifra que en México alcanzó
+gas y carbón@energyinst2024, cifra que en México alcanzó
 el 75 %. Esto significa que, por cada hora
 
 de uso, al menos 45 minutos se contribu-
