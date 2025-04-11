@@ -1,9 +1,0 @@
----
-title: "Un mundo feliz"
-date: 2025-04-01
-issue: "Número 1"
-categories: [Renovable]
----
-
-
-Hola mundo feliz

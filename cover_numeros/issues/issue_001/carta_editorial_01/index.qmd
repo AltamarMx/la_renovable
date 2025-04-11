@@ -1,9 +1,9 @@
 ---
 title: "Carta editorial Uno"
-date: 2025-04-01
+date: 2024-04-01
 issue: "Número 1"
 categories: [Renovable]
 ---
 
 
-Bienvenides al número 1
+Bienvenides al número 1 en el 2024

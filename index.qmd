@@ -1,14 +1,8 @@
 ---
 title: "La Renovable"
 listing:
-  contents: articles
-  # sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  contents:  cover_numeros/*.qmd
+  type: grid
+  fields: [title,image]
+
 ---
-
-

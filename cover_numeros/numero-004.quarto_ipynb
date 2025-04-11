@@ -1,0 +1,46 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Número 4\"\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "# Bienvenides a Número 4\n",
+        "\n",
+        "Esta es la portada del número 4 de *La Renovable*.  \n",
+        "A continuación se muestran los artículos correspondientes:\n",
+        "\n",
+        "::: {.listing-block}\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "```{yaml}\n",
+        "listing:\n",
+        "  contents: issues/issue_004/\n",
+        "  sort: \"date desc\"\n",
+        "  type: default\n",
+        "  sort-ui: false\n",
+        "  filter-ui: false\n",
+        "```"
+      ],
+      "id": "733a0f38"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/gbv/Library/Python/3.13/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

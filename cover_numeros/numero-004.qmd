@@ -1,0 +1,13 @@
+---
+title: "Número 4"
+
+listing:
+
+  contents:
+    - "**/issue_004/"
+  
+  fields: [title,image,author, reading-time]
+image: cover_004.png
+
+---
+

@@ -1,15 +1,16 @@
 project:
   type: website
+lang: es   
 
 website:
   title: "La Renovable"
   sidebar:
     contents:
       - about.qmd
-      - text: "Número 1"
-        href: numero-001.qmd
-      - text: "Número 2"
-        href: numero-002.qmd
+      # - text: "Número 1"
+      #   href: numero-001.qmd
+      # - text: "Número 4"
+      #   href: numero-004.qmd
 
 format:
   html:

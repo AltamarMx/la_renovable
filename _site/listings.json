@@ -2,20 +2,40 @@
   {
     "listing": "/index.html",
     "items": [
-      "/articles/carta_editorial_01/index.html",
-      "/articles/un_mundo_feliz/index.html"
+      "/cover_numeros/numero-001.html",
+      "/cover_numeros/numero-004.html"
     ]
   },
   {
     "listing": "/numero-001.html",
     "items": [
-      "/articles/carta_editorial_01/index.html"
+      "/issue_001/un_mundo_feliz/index.html",
+      "/issue_001/carta_editorial_01/index.html"
     ]
   },
   {
     "listing": "/numero-002.html",
+    "items": []
+  },
+  {
+    "listing": "/numero-004.html",
     "items": [
-      "/articles/carta_editorial_01/index.html"
+      "/issue_004/el_lado_mas_caliente/index.html",
+      "/issue_004/carta_editorial/index.html"
+    ]
+  },
+  {
+    "listing": "/cover_numeros/numero-004.html",
+    "items": [
+      "/cover_numeros/issues/issue_004/carta_editorial/index.html",
+      "/cover_numeros/issues/issue_004/el_lado_mas_caliente/index.html"
+    ]
+  },
+  {
+    "listing": "/cover_numeros/numero-001.html",
+    "items": [
+      "/cover_numeros/issues/issue_001/un_mundo_feliz/index.html",
+      "/cover_numeros/issues/issue_001/carta_editorial_01/index.html"
     ]
   }
 ]
