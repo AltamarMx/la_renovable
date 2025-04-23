@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/cover_numeros/numero-001.html",
+      "/cover_numeros/numero-004.html"
+    ]
+  },
+  {
+    "listing": "/cover_numeros/numero-004.html",
+    "items": [
+      "/cover_numeros/issues/issue_004/carta_editorial.html",
+      "/cover_numeros/issues/issue_004/el_lado_mas_caliente/index.html"
+    ]
+  }
+]
